@@ -1,0 +1,5 @@
+{
+  "name": "My Christmas Catalog",
+  "description": "A production-ready frontend for generating personalized Christmas catalogs, managing registries, and curating product feeds.",
+  "requestFramePermissions": []
+}
